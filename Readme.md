@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
 * Студент: [Кристина Мифле](https://up.htmlacademy.ru/javascript/11/user/497205).
-* Наставник: `Неизвестно`.
+* Наставник: `Денис Корнейчук`.
 
 ---
 
